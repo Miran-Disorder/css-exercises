@@ -1,0 +1,19 @@
+.odd-num, .third-elm {
+  background-color: #FF6863;
+  font-family:'Verdana', DejaVu Sans, sans-serif;
+}
+
+.second-elm {
+  color: #87CEEB;
+  font-size: 36px;
+}
+
+.third-elm {
+  font-size: 24px;
+}
+
+.fourth-elm {
+  background-color: #BFF4BE;
+  font-size: 24px;
+  font-weight: bold;
+}
